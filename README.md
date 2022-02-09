@@ -10,3 +10,7 @@
 - 2.2 머신러닝 기법에 텍스트 마이닝 결과 변수 추가하여 예측력 향상 여부 확인
 - 2.3 텍스트 마이닝(Doc2Vec 이용) 결과 변수만을 이용한 예측 모형 수립
 - 2.4 2.3과 2.3 결과 비교
+
+# 데이터 다운로드
+- Intermediate data&Interim Findings: https://drive.google.com/file/d/1gIZtcQ_MzcUseFKMcUEpVkQGE2YE85BJ/view?usp=sharing
+- Final data&Interim Findings: https://drive.google.com/file/d/1ESjBclaikEXz9IGDwjj1O-MciVeNh-6T/view?usp=sharing
